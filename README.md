@@ -8,4 +8,4 @@
 <br>
 [![](https://img.shields.io/badge/Hotel-Trivago-informational?style=flat&logo=tui&logoColor=white&color=F48F00)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-[my youtube ig lol](https://www.youtube.com/channel/UCsiXaDm6la2O5vALdFdlo7w?sub_confirmation=1)
+[my youtube ig lol](https://www.youtube.com/channel/UCsiXaDm6la2O5vALdFdlo7w?sub_confirmation=1/api?username=MorganInnit&show_icons=true)
