@@ -8,4 +8,4 @@
 <br>
 [![](https://img.shields.io/badge/Hotel-Trivago-informational?style=flat&logo=tui&logoColor=white&color=F48F00)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-[![YkmMorgan's YouTube Channel](https://www.youtube.com/channel/UCsiXaDm6la2O5vALdFdlo7w/videos?view_as=subscriber)](https://www.youtube.com/channel/UCsiXaDm6la2O5vALdFdlo7w/videos?view_as=subscriber) <br>
+[![YkmMorgan's YouTube Channel](https://www.youtube.com/channel/UCsiXaDm6la2O5vALdFdlo7w)](https://www.youtube.com/channel/UCsiXaDm6la2O5vALdFdlo7w) <br>
