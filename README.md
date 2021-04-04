@@ -1,5 +1,5 @@
 ### lol hi
- hi im a dumbass. 4n4#6168 <br>
+ hi im a dumbass. 4n4#1337 <br>
 ![brr](https://komarev.com/ghpvc/?username=YkmMorgan&style=flat-square&color=blueviolet) <br>
 <br>
 [![4n4hit's github stats](https://github-readme-stats.vercel.app/api?username=4n4hits&show_icons=true&theme=dracula)](https://www.youtube.com/channel/UCsiXaDm6la2O5vALdFdlo7w/videos?view_as=subscriber) <br>
